@@ -1,1 +1,1 @@
-# javascritpt-project
+quiz app based on javascript
